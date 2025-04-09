@@ -1,6 +1,6 @@
 # Inventory Management System
 
-This is a Flask-based Inventory Management System designed for a hardware store in a tyre factory. It allows users to manage categories, items, departments, and transactions, as well as issue items to departments and generate reports.
+This is a Flask-based Inventory Management System designed for a store. It allows users to manage categories, items, departments, and transactions, as well as issue items to departments and generate reports.
 
 ## Features
 
